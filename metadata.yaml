@@ -1,0 +1,23 @@
+_repo: Pages-d-Islam_66853
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eberhardt, Isabelle
+    gutenberg_agent_id: '53988'
+    url: http://www.gutenberg.org/2009/agents/53988
+  editor:
+    agent_name: Barrucand, Victor
+    gutenberg_agent_id: '53989'
+    url: http://www.gutenberg.org/2009/agents/53989
+description: ''
+gutenberg_issued: '2021-11-30'
+identifiers:
+  gutenberg: '66853'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pages d'Islam
+url: http://www.gutenberg.org/ebooks/66853
